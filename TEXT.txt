@@ -1,1 +1,1 @@
-THIS IS A TETX FILE.
+THIS IS A TExt file.
